@@ -125,7 +125,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/calibri"
                 android:padding="16dp"
-                android:text="in addition to being a decoration, cactus can also be a health benefit, let's buy cactus in our store because now discount 30%"
+                android:text="in addition to being a decoration, sofa couch can also be a health benefit, let's buy cactus in our store because now discount 30%"
                 android:textColor="#444444"
                 android:textSize="16sp" />
 
