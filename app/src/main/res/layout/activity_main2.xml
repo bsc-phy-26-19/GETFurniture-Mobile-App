@@ -317,7 +317,7 @@
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Cactus"
+                                        android:text="Sofar"
                                         android:textColor="#FFFFFF"
                                         android:textSize="14sp"
                                         android:textStyle="bold" />
@@ -334,7 +334,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$18"
+                                            android:text="MK80000"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
@@ -401,7 +401,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$24"
+                                            android:text="MK20004"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
@@ -526,7 +526,7 @@
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
                                         android:fontFamily="@font/calibri"
-                                        android:text="Elegant Lamp"
+                                        android:text="Sofa"
                                         android:textColor="#FFFFFF"
                                         android:textSize="14sp"
                                         android:textStyle="bold" />
@@ -543,7 +543,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$13"
+                                            android:text="MK130000"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
@@ -618,7 +618,7 @@
                                             android:layout_height="wrap_content"
                                             android:layout_weight="80"
                                             android:fontFamily="@font/calibri"
-                                            android:text="$36"
+                                            android:text="MK360000"
                                             android:textColor="#FFFFFF"
                                             android:textSize="12sp"
                                             android:textStyle="bold" />
