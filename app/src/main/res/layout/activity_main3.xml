@@ -55,7 +55,7 @@
                     android:layout_marginRight="16dp"
                     android:layout_marginBottom="4dp"
                     android:fontFamily="@font/calibri"
-                    android:text="Shashank Singhal"
+                    android:text="Nasiar"
                     android:textColor="#000000"
                     android:textSize="18sp" />
 
@@ -65,7 +65,7 @@
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
                     android:fontFamily="@font/calibri"
-                    android:text="Mobile Application Developer"
+                    android:text="UNIMA STUDENT"
                     android:textSize="14sp" />
 
                 <LinearLayout
